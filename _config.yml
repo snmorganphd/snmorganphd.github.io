@@ -21,7 +21,7 @@ repository               : "snmorganphd/snmorganphd.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "morgan_bio photo.jpg"
   name             : "Stephen N. Morgan"
   pronouns         : # example: "she/her"  
   bio              : "Agricultural and applied economist"
